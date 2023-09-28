@@ -4,7 +4,7 @@
 
 #### Background 👨‍💻
 
-I'm a junior full stack web developer that is always striving to be better than I was the day before. I studied and graduated witha Bachelor's Degree in Journalism, and worked in a number of different settings such as retail, healthcare, and marketing before finding my place in Tech! I continue to work on small projects and learn new technologies so that one day I may one day achieve my dream of becoming a Software Engineer. 
+I'm a junior full stack web developer that is always striving to be better than I was the day before. I studied and graduated witha Bachelor's Degree in Journalism, and worked in a number of different settings such as retail, healthcare, and marketing before finding my place in Tech! I continue to work on small projects and learn new technologies so that I may one day achieve my dream of becoming a Software Engineer. 
 
 ---
 
