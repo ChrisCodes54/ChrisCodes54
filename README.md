@@ -28,8 +28,8 @@ I'm a junior full stack web developer that is always striving to be better than 
 ---
 ### Contact Me!
 
-I am always looking to connect with likeminded individuals who are pushing to learn and collaborate! Use the button below to send me an email!
+I am always looking to connect with likeminded individuals who are pushing to learn and collaborate! Use the button below to send me an email, can't wait to hear from you!
 
-<br><a href="mailto:christangarife95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:christangarife95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
